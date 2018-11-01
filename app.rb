@@ -11,8 +11,8 @@ class App < Sinatra::Base
   end
 
   post '/' do
-    @name = 
+    @name =
   end
-  
+
 
 end
