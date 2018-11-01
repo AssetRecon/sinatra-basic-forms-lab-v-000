@@ -1,4 +1,4 @@
-class puppies
+class Puppies
 
 
 end
